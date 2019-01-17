@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff21a47e-8027-454f-8978-58b70cc9f83d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/news.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3938">
+              <caret line="535" column="36" selection-start-line="535" selection-start-column="36" selection-end-line="535" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/detai_news.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="184" column="34" lean-forward="true" selection-start-line="184" selection-start-column="34" selection-end-line="184" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/respon_news.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/detai_news.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="137" column="32" selection-start-line="137" selection-start-column="32" selection-end-line="137" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_news.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10659">
+              <caret line="627" column="44" selection-start-line="627" selection-start-column="44" selection-end-line="627" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17816">
+              <caret line="1048" column="31" selection-start-line="1048" selection-start-column="31" selection-end-line="1048" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="38" selection-start-line="1" selection-end-line="1" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detail_news.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3876">
+              <caret line="228" column="137" selection-start-line="228" selection-start-column="49" selection-end-line="228" selection-end-column="137" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list_news.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9061">
+              <caret line="533" column="34" selection-start-line="533" selection-start-column="34" selection-end-line="533" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.list_sub</find>
+      <find>display_none</find>
+      <find>active</find>
+      <find>@</find>
+      <find>sty</find>
+      <find>.active</find>
+      <find>list_sub</find>
+      <find>ac_tech_sl</find>
+      <find>display</find>
+      <find>price</find>
+      <find>price_ne</find>
+      <find>star</find>
+      <find>pa</find>
+      <find>.foo</find>
+      <find>hover</find>
+      <find>tech</find>
+      <find>#toy_creative</find>
+      <find>acessory_tech</find>
+      <find>580</find>
+      <find>pg_</find>
+      <find>48h</find>
+      <find>page_tag</find>
+      <find>Iphone</find>
+      <find>product_same</find>
+      <find>care</find>
+      <find>item</find>
+      <find>goTop</find>
+      <find>tu</find>
+      <find>đang hot</find>
+      <find>tương</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/home/index.html" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/css/home.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/tesst.html" />
+        <option value="D:/giao-dien-cat1/wemarry/home.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/home_page.html" />
+        <option value="$PROJECT_DIR$/js/jstong.js" />
+        <option value="$PROJECT_DIR$/detail_news.html" />
+        <option value="$PROJECT_DIR$/news.html" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/product_detail.html" />
+        <option value="$PROJECT_DIR$/lib/duongdan.php" />
+        <option value="$PROJECT_DIR$/home/index.php" />
+        <option value="$PROJECT_DIR$/pages/home.php" />
+        <option value="E:/camera12/camera/index.html" />
+        <option value="$PROJECT_DIR$/../camera12/camera/index.html" />
+        <option value="$PROJECT_DIR$/../camera/include/header.php" />
+        <option value="$PROJECT_DIR$/home_page.html.php" />
+        <option value="$PROJECT_DIR$/index.html.php" />
+        <option value="$PROJECT_DIR$/news.html.php" />
+        <option value="$PROJECT_DIR$/product.html.php" />
+        <option value="$PROJECT_DIR$/product_detail.html.php" />
+        <option value="$PROJECT_DIR$/include/footer.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/include/header.php" />
+        <option value="$PROJECT_DIR$/home.php.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/home.html.php" />
+        <option value="$PROJECT_DIR$/detail_product.php.html" />
+        <option value="$PROJECT_DIR$/list_product.php.html" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/detail_news.php.html" />
+        <option value="$PROJECT_DIR$/list_news.php.html" />
+        <option value="$PROJECT_DIR$/home_news.html" />
+        <option value="$PROJECT_DIR$/detail_news.html.php" />
+        <option value="$PROJECT_DIR$/testowl.html" />
+        <option value="$PROJECT_DIR$/css/respon_news.scss" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/list_news.html.php" />
+        <option value="$PROJECT_DIR$/home_news.html.php" />
+        <option value="$PROJECT_DIR$/css/news.css" />
+        <option value="$PROJECT_DIR$/css/detai_news.scss" />
+        <option value="$PROJECT_DIR$/css/detai_news.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="79" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="detai_news.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="respon_news.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gat-Store-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gat-Store-final" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Gat-Store-final\css" />
+      <recent name="C:\xampp\htdocs\wemarry" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff21a47e-8027-454f-8978-58b70cc9f83d" name="Default Changelist" comment="" />
+      <created>1543308051217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543308051217</updated>
+      <workItem from="1543308052576" duration="7052000" />
+      <workItem from="1543330309218" duration="4630000" />
+      <workItem from="1543368680348" duration="22852000" />
+      <workItem from="1543399891155" duration="140000" />
+      <workItem from="1543414606613" duration="682000" />
+      <workItem from="1543420957775" duration="95000" />
+      <workItem from="1543477749846" duration="2352000" />
+      <workItem from="1543484798876" duration="1230000" />
+      <workItem from="1543511589555" duration="1270000" />
+      <workItem from="1543541592472" duration="634000" />
+      <workItem from="1543543953632" duration="2465000" />
+      <workItem from="1543549249979" duration="696000" />
+      <workItem from="1543762309410" duration="554000" />
+      <workItem from="1543896801937" duration="10753000" />
+      <workItem from="1544760833345" duration="20686000" />
+      <workItem from="1544802298331" duration="5757000" />
+      <workItem from="1544835780922" duration="13797000" />
+      <workItem from="1544924755964" duration="24990000" />
+      <workItem from="1544974093926" duration="6759000" />
+      <workItem from="1545010827635" duration="26009000" />
+      <workItem from="1545097594156" duration="26602000" />
+      <workItem from="1545127767684" duration="1951000" />
+      <workItem from="1545147602558" duration="6240000" />
+      <workItem from="1545183738881" duration="28345000" />
+      <workItem from="1545233537184" duration="4305000" />
+      <workItem from="1545269564493" duration="1307000" />
+      <workItem from="1545277871562" duration="21489000" />
+      <workItem from="1545321998118" duration="9998000" />
+      <workItem from="1545356996119" duration="28796000" />
+      <workItem from="1545440882586" duration="12147000" />
+      <workItem from="1545530857253" duration="7292000" />
+      <workItem from="1545573961547" duration="10947000" />
+      <workItem from="1545615083402" duration="26966000" />
+      <workItem from="1545701059232" duration="24466000" />
+      <workItem from="1545729280996" duration="3648000" />
+      <workItem from="1545789377415" duration="1207000" />
+      <workItem from="1545791028998" duration="18545000" />
+      <workItem from="1545874577038" duration="24781000" />
+      <workItem from="1545901275042" duration="6156000" />
+      <workItem from="1545960571189" duration="29163000" />
+      <workItem from="1546045956716" duration="7829000" />
+      <workItem from="1546392177799" duration="12889000" />
+      <workItem from="1546479300539" duration="8411000" />
+      <workItem from="1546568929742" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="477476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="79" width="1026" height="546" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30020705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20574887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/giao-dien-cat1/wemarry/css/home.css" />
+    <entry file="file://$PROJECT_DIR$/tesst.html" />
+    <entry file="file://D:/camera12/camera/css/responsive.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://D:/camera12/camera/css/style.css" />
+    <entry file="file://D:/camera12/camera/about.html" />
+    <entry file="file://D:/camera12/camera/index.html" />
+    <entry file="file://D:/camera12/camera/detail.html" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.theme.default.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5899">
+          <caret line="11" column="51493" selection-start-line="11" selection-start-column="51477" selection-end-line="11" selection-end-column="51493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/index.php" />
+    <entry file="file://$PROJECT_DIR$/pages/home.php" />
+    <entry file="file://D:/do.php" />
+    <entry file="file://$PROJECT_DIR$/../camera12/camera/css/style.css" />
+    <entry file="file://E:/camera12/camera/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="465" lean-forward="true" selection-start-line="465" selection-end-line="465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../camera12/camera/css/responsive.css" />
+    <entry file="file://$PROJECT_DIR$/../camera12/camera/index.html" />
+    <entry file="file://$PROJECT_DIR$/../camera/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_detail.html.php" />
+    <entry file="file://$PROJECT_DIR$/product.html.php" />
+    <entry file="file://$PROJECT_DIR$/news.html.php" />
+    <entry file="file://$PROJECT_DIR$/index.html.php" />
+    <entry file="file://$PROJECT_DIR$/home_page.html.php" />
+    <entry file="file://$PROJECT_DIR$/js/jstong.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../giao-dien-cat1/wemarry/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/images/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/images/banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/duongdan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php.html" />
+    <entry file="file://$PROJECT_DIR$/include/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_product.php.html" />
+    <entry file="file://$PROJECT_DIR$/home.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="51" column="56" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="56" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/images/news.css" />
+    <entry file="file://$PROJECT_DIR$/detail_product.php.html" />
+    <entry file="file://$PROJECT_DIR$/detail_news.php.html" />
+    <entry file="file://$PROJECT_DIR$/list_news.php.html" />
+    <entry file="file://$PROJECT_DIR$/home_news.html" />
+    <entry file="file://$PROJECT_DIR$/testowl.html" />
+    <entry file="file://$PROJECT_DIR$/css/respon_news.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="178" column="1" lean-forward="true" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3938">
+          <caret line="535" column="36" selection-start-line="535" selection-start-column="36" selection-end-line="535" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_news.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10659">
+          <caret line="627" column="44" selection-start-line="627" selection-start-column="44" selection-end-line="627" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17816">
+          <caret line="1048" column="31" selection-start-line="1048" selection-start-column="31" selection-end-line="1048" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" selection-start-line="1" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detail_news.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="137" selection-start-line="228" selection-start-column="49" selection-end-line="228" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_news.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9061">
+          <caret line="533" column="34" selection-start-line="533" selection-start-column="34" selection-end-line="533" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/respon_news.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/detai_news.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="184" column="34" lean-forward="true" selection-start-line="184" selection-start-column="34" selection-end-line="184" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/detai_news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="137" column="32" selection-start-line="137" selection-start-column="32" selection-end-line="137" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

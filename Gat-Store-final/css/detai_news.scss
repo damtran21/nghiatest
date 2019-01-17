@@ -1,0 +1,293 @@
+.wrapper_detail_news{
+  display: grid;
+  grid-template-columns: 70% 30%;
+.content_dt_left{
+  .post{
+    padding-right: 24px;
+    h2{
+      line-height: 35px;
+      font-size: 24px;
+      color: #272727;
+      margin-top: 12px;
+      margin-bottom: 10px;
+    }
+    h3{
+      font-size: 24px;
+      font-weight: bold;
+      display: block;
+      margin: 7px 0px 19px 0px;
+    }
+    .img_decrip{
+      padding: 16px 16px 20px 39px;
+    }
+    h4{
+      color: #2b2b2b;
+      font-size: 14px;
+      line-height: 24px;
+      padding: 20px 20px 20px 0px;
+      font-weight: normal;
+    }
+    p{
+      font-size: 14px;
+      color: #2b2b2b;
+      line-height: 24px;
+      margin: 7px 0px 12px 0;
+    }
+    .user_post{
+      margin-bottom: 18px;
+      display: grid;
+      grid-template-columns: 50% 50%;
+      .right{
+        text-align: right;
+      }
+      .left{
+        span{
+          font-size: 16px;
+          color: #767676;
+          margin-right: 5px;
+        }
+        a.us{
+          font-size: 14px;
+          color: #4f4f4f;
+          margin-right: 7px;
+          i{
+            margin-right: 7px;
+          }
+        }
+        a{
+          font-size: 14px;
+          color: #767676;
+          margin-right: 7px;
+          i{
+            margin-right: 7px;
+          }
+        }
+      }
+    }
+    .img_post{
+      a{
+        display: block;
+        width: 795px;
+        height: 450px;
+        img{
+          height: 100%;
+        }
+      }
+    }
+
+  }
+  .hot_search{
+    display: grid;
+    grid-template-columns: 14% 86%;
+    margin: 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    padding: 9px 0px;
+  }
+  .support_post{
+    .list_comment{
+      margin: 25px 0px;
+      .item_comment{
+        .reply{
+          a{
+            color: #00a8ff;
+            font-size: 14px;
+            line-height: 22px;
+          }
+        }
+        .content_comment{
+          font-size: 14px;
+          line-height: 22px;
+          color: #191919;
+        }
+        .header{
+          span.username{
+            color: #0d2337;
+            font-size: 15px;
+            font-weight: bold;
+            line-height: 24px;
+          }
+          span.time{
+            color: #838383;
+            font-size: 13px;
+            line-height: 24px;
+          }
+        }
+      }
+    }
+    .title{
+      color: #3f4040;
+      font-size: 14px;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin: 14px 0px;
+    }
+    form{
+      position: relative;
+      .item{
+        input.fullname{
+          width: 208px;
+          height: 40px;
+          padding: 0px 17px;
+          border: 1px solid #d9d9d9;
+          border-radius: 5px;
+          margin-bottom: 8px;
+        }
+        input.fullname:focus{
+        box-shadow: 0 0 30px #e7e7e7;
+        }
+
+      }
+      textarea.content_cmt{
+        width: 100%;
+        border: 1px solid #d9d9d9;
+        height: 105px;
+        padding: 15px 0 0 17px;
+        position: relative;
+        resize: none;
+        border-radius: 4px;
+      }
+      input.sm_form_cmt{
+        background: #007eff;
+        padding: 8px 13px;
+        position: absolute;
+        right: -7px;
+        bottom: 13px;
+        border-radius: 5px;
+        outline: none;
+        border: 1px solid #d9d9d9;
+        color: #fff;
+      }
+    }
+  }
+}
+  .sidebar_dt_right{
+    .ifames_face{
+      float: right;
+    }
+    .register{
+      width: 304px;
+      height: 224px;
+      background: #fffdef;
+      border: 1px solid #edeadc;
+      margin: 14px 0px;
+      clear: both;
+      float: right;
+      input.email{
+        display: block;
+        margin: 0 auto;
+        width: 196px;
+        height: 30px;
+        padding: 0 0 0 12px;
+        margin-bottom: 9px;
+        border-radius: 4px;
+        outline: none;
+        border: 1px solid #d9d7cb;
+      }
+      input.sm_form_re{
+        background: #009cff;
+        width: 212px;
+        height: 34px;
+        outline: none;
+        border: none;
+        margin: 0 auto;
+        display: block;
+        border-radius: 4px;
+        font-size: 14px;
+        font-weight: bold;
+        color: #fff;
+      }
+      a.thumb{
+        img{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 13px;
+          margin-bottom: 5px;
+        }
+      }
+      .info{
+        text-align: center;
+        margin-bottom: 15px;
+        h3{
+          font-size: 14px;
+          font-weight: bold;
+          text-transform: uppercase;
+          color: #202020;
+          line-height: 22px;
+        }
+        p{
+          color: #787878;
+          font-size: 13px;
+          line-height: 22px;
+        }
+      }
+    }
+    .news_update{
+      margin-top: 19px;
+      .item{
+        ul{
+          margin-top: 10px;
+          margin-bottom: 15px;
+          li{
+            display: grid;
+            grid-template-columns: 20% 80%;
+            margin-bottom: 8px;
+            a.decrip{
+              font-size: 14px;
+              color: #2d2d2d;
+              line-height: 22px;
+            }
+            a.thumb{
+              width: 58px;
+              height: 58px;
+              display: block;
+              img{
+                height: 100%;
+                width: 100%;
+              }
+            }
+          }
+        }
+      }
+      .tittle{
+        h3{
+          font-size: 14px;
+          line-height: 22px;
+          color: #272727;
+          text-transform: uppercase;
+          padding: 9px 0;
+          border-bottom: 1px solid #e7e7e7;
+        }
+      }
+    }
+    .product_same{
+      padding: 5px 10px;
+      margin-bottom: 15px;
+      .list_product_same{
+        margin-bottom: 10px;
+        .item{
+          ul{
+            li{
+              padding-top: 19px;
+            }
+          }
+        }
+      }
+      .same_header{
+        padding-bottom: 6px;
+        a.text{
+          float: left;
+          line-height: 30px;
+          margin-right: 8px;
+        }
+        a.thumb{
+          img{
+            width: 42px;
+            height: 25px;
+          }
+        }
+      }
+    }
+  }
+}

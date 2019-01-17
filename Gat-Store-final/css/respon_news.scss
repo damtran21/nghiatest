@@ -1,0 +1,179 @@
+@media screen and (max-width: 768px) {
+  .list11_news .ct_care{
+    width: 98%;
+    padding: 17px 0px 20px 0px;
+  }
+  .detail_news{
+    margin: 0 10px;
+  }
+  .wrapper_detail_news .sidebar_dt_right .register{
+    transform: translateX(0);
+  }
+  .wrapper_detail_news .content_dt_left .support_post form input.sm_form_cmt{
+    right: 18px;
+  }
+  .wrapper_detail_news .content_dt_left .support_post form textarea.content_cmt{
+    max-width: 728px;
+    width: 96%;
+  }
+  .wrapper_detail_news .sidebar_dt_right .ifames_face{
+    float: left;
+  }
+  .wrapper_detail_news .sidebar_dt_right .register{
+    float: left;
+  }
+  .wrapper_detail_news .sidebar_dt_right .news_update .item ul li{
+    grid-template-columns: 15% 80%;
+  }
+  .product_same .list_product_same .item ul{
+    grid-template-columns: 20% 70%;
+  }
+  .wrapper_detail_news{
+    grid-template-columns: 100%;
+    .content_dt_left{
+      .post{
+        .img_post{
+          a{
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+  /*home_news*/
+  .wrapper_home_news{
+    grid-template-columns: 100%;
+  }
+  .ct_care{
+    width: 98%;
+    padding: 15px 0px 30px 0px;
+  }
+  .sidebar_hn_right .register{
+    width: 96%;
+    margin: 14px auto;
+  }
+  .home_news{
+    margin: 0 10px;
+  }
+  .news_home_bottom .item1{
+    grid-template-columns: 35% 65%;
+  }
+  .sidebar_hn_right .ifames_face{
+    display: none;
+  }
+  .home_news .sidebar_hn_right .product_same .list_product_same .item ul{
+    grid-template-columns: 20% 80%;
+  }
+  /*list_news*/
+.list11_news{
+  margin: 0 10px;
+}
+  .list11_news .hot_search{
+    grid-template-columns: 100%;
+  }
+  .list11_news .ct_news-hot .ct-news-hot-l .item .info{
+    top: 59%;
+  }
+}
+@media screen and (max-width: 710px){
+  .news_home_bottom .item1{
+    grid-template-columns: 48% 50%;
+    justify-content: space-between;
+  }
+  .ct_care{
+    height: auto;
+  }
+  .news_home_bottom .item1 .img_new_home a{
+    width: auto;
+  }
+  .list11_news .ct_care{
+    width: 98%;
+    padding: 17px 0px 20px 0px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 450px){
+  .hd_bottom_b span{
+    top: 10%;
+  }
+  .product_same .list_product_same .item ul{
+    grid-template-columns: 27% 70%;
+  }
+  .wrapper_detail_news .sidebar_dt_right .news_update .item ul li{
+    grid-template-columns: 20% 80%;
+  }
+}
+@media screen and (max-width: 375px){
+  .home_news .sidebar_hn_right .product_same .list_product_same .item ul{
+    grid-template-columns: 38% 62%;
+  }
+  .wrapper_detail_news .content_dt_left .hot_search{
+    grid-template-columns: 100%;
+  }
+  .product_same .list_product_same .item ul{
+    grid-template-columns: 33% 67%;
+  }
+  .wrapper_detail_news .sidebar_dt_right .news_update .item ul li{
+    grid-template-columns: 23% 77%;
+  }
+  .wrapper_detail_news .sidebar_dt_right .register{
+    transform: translateX(8%);
+  }
+  .hot_search .content_hs ul li{
+    margin-bottom: 5px;
+  }
+  /*home_news*/
+  .wrapper_home_news{
+    grid-template-columns: 100%;
+  }
+  .news_hot .ct_news-hot{
+    grid-template-columns: 100%;
+  }
+  .news_four{
+    grid-template-columns: 100%;
+  }
+  .news_home_bottom .item1 .img_new_home a{
+    width: 100%;
+    height: auto;
+  }
+  .ct_care{
+    width: 100%;
+    height: auto;
+    padding: 0;
+  }
+  .sidebar_hn_right .register{
+    width: 96%;
+    margin: 14px auto;
+  }
+  .home_news{
+    margin: 0 10px;
+  }
+  .news_home_bottom .item1{
+    grid-template-columns: 30% 65%;
+    justify-content: space-between;
+  }
+  .content_care .info{
+    text-align: center;
+  }
+  .ct_care .tittle{
+    padding-top: 12px;
+  }
+  .home_news .ct-news-hot-r{
+    margin-top: 10px;
+  }
+  .ct_news-hot .ct-news-hot-l .item .info{
+    top: 53%;
+  }
+  /*list_news*/
+  .list11_news .news_hot .ct_news-hot{
+    grid-template-columns: 100%;
+  }
+  .list11_news .news_hot .ct_news-hot .ct-news-hot-r{
+    margin-top: 10px;
+  }
+  .list11_news .ct_care{
+    width: 98%;
+    padding: 17px 0px 20px 0px;
+    height: auto;
+  }
+}
